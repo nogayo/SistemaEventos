@@ -23,7 +23,7 @@ $err = isset($_GET['error']) ? $_GET['error'] : null ;
 				echo "Debe iniciar sesion para poder acceder el sitio. <br />";
 			}
 			?>
-            <h1>Sistema de Eventos </h1>
+            <h1> Sistema de Eventos </h1>
         	<label> Usuario: </label><br />
             <input type="text" name="usern" id="usern" maxlength="15" /><br />
             <label> Contraseña: </label><br />

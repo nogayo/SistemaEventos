@@ -1,0 +1,16 @@
+*.class
+*.properties
+build/
+nbproject/
+## generic files to ignore
+*~
+*.xml
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Package Files #
+*.jar
+*.war
+*.ear
